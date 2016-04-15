@@ -1,0 +1,39 @@
+/* style for Flash messaging*/
+
+.flash-error, .flash-success, .flash-notice {
+    border:2px solid;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding:5px;
+}
+
+.flash-error {
+	color: #FF99CC;
+	letter-spacing: 3px;
+	text-align: center;
+    background-color: #FFFFFF;
+    border-color: #000000;
+}
+
+.flash-success {
+	color: #66CC00;
+	letter-spacing: 3px;
+	text-align: center;
+    background-color: #FFFFFF;
+    border-color: #000000;
+}
+
+.flash-notice {
+	color: #99CCFF;
+	letter-spacing: 3px;
+	text-align: center;
+    background-color: #FFFFFF;
+    border-color: #000000;
+}
+
+
+/* custom class example for xx-large text*/
+.larger-text {
+    font-size: xx-large;
+}
