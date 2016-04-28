@@ -1,0 +1,24 @@
+{
+    "name": "flash",    
+    "type": "library",
+    "description": "Various base classes for flash message management",
+    "keywords": ["flash", "education"],
+    "homepage": "http://www.student.bth.se/~olve12/phpmvc/kmom05/webroot/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olivia ver",
+            "email": "n.a.g.i@live.se",
+            "homepage": "http://www.student.bth.se/~olve12/phpmvc/kmom05/webroot/",
+            "role": "Developer"
+        }
+    ],
+   "require": {
+        "vendor/package": "1.3.2",
+        "vendor/package2": "1.*",
+        "vendor/package3": "^2.0.3"
+    },
+    "autoload": {
+        "psr-4": { "Phpmvc\\": "src/" }
+    }
+}
