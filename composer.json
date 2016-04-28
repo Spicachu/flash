@@ -1,5 +1,5 @@
 {
-    "name": "flash",    
+    "name": "olve/flash",    
     "type": "library",
     "description": "Various base classes for flash message management",
     "keywords": ["flash", "education"],
