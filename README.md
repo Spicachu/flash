@@ -17,7 +17,15 @@ This flash module for your Anax MVC is composed to you by Olivia V. n.a.g.i@live
 
 In composer: 
 
-COMING SOON
+$ composer require olve/flash
+
+Dependencies: 
+
+"require": {
+        "vendor/package": "1.3.2",
+        "vendor/package2": "1.*",
+        "vendor/package3": "^2.0.3"
+    }
 
 
 # The module 
